@@ -202,3 +202,6 @@ Note: Everything has to be submitted in one Jupyter notebook.
  
 
 The evaluation rubrics are mentioned on the next page.
+
+**DATA**
+https://drive.google.com/file/d/1SWnADIda31mVFevFcfkGtcgBHTKKI94J/view
